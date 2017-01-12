@@ -1,0 +1,5 @@
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpTest\bin\Debug\IKVPCSharpTest.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpTest\bin\Debug\IKVPCSharpTest.pdb
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpTest\obj\Debug\IKVPCSharpTest.csprojResolveAssemblyReference.cache
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpTest\obj\Debug\IKVPCSharpTest.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpTest\obj\Debug\IKVPCSharpTest.pdb

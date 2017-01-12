@@ -1,0 +1,5 @@
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharp\bin\Debug\IKVPCSharp.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharp\bin\Debug\IKVPCSharp.pdb
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharp\obj\Debug\IKVPCSharp.csprojResolveAssemblyReference.cache
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharp\obj\Debug\IKVPCSharp.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharp\obj\Debug\IKVPCSharp.pdb

@@ -1,0 +1,18 @@
+﻿Build started 1/12/2017 10:58:49 AM.
+     1>Project "C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPSWIG\IKVPSWIG.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IR:\InProductSW\Boost\V1.62.0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LCRSTree.cpp ScanProtocol.cpp
+         LCRSTree.cpp
+         Generating Code...
+         Compiling...
+         ScanProtocol.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\Debug\IKVPSWIG.lib" /NOLOGO Debug\LCRSTree.obj
+         Debug\ScanProtocol.obj
+         IKVPSWIG.vcxproj -> C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\Debug\IKVPSWIG.lib
+     1>Done Building Project "C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPSWIG\IKVPSWIG.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76

@@ -1,0 +1,7 @@
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\obj\Debug\IKVPCSharpUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\bin\Debug\IKVPCSharpUnitTest.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\bin\Debug\IKVPCSharpUnitTest.pdb
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\bin\Debug\IKVPCSharp.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\bin\Debug\IKVPCSharp.pdb
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\obj\Debug\IKVPCSharpUnitTest.dll
+C:\Users\310127474\Documents\Visual Studio 2013\Projects\IKVPSWIG\IKVPCSharpUnitTest\obj\Debug\IKVPCSharpUnitTest.pdb
